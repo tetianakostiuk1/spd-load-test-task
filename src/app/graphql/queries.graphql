@@ -1,0 +1,8 @@
+# noinspection GraphQLUnresolvedReference
+query ExampleQuery {
+    rockets {
+        id
+        description
+        name
+    }
+}
